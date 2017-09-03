@@ -1,3 +1,5 @@
-body {
-    text-align: center;
+p {
+	margin: auto;
+	text-align: justify;
+	max-width: 20cm;
 }
