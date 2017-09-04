@@ -1,5 +1,15 @@
-p {
-	margin: auto;
+* {
+	font-size: 1.1em;
+	color: #444;
+}
+
+.center {
+	text-align: center;
+}
+
+body {
+	margin: 2cm auto;
 	text-align: justify;
+	/* Allows for actually seeing the 'justify' wrapping effect. */
 	max-width: 20cm;
 }
