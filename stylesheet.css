@@ -1,8 +1,3 @@
-* {
-	font-size: 1.1em;
-	color: #444;
-}
-
 .center {
 	text-align: center;
 }
@@ -12,4 +7,6 @@ body {
 	text-align: justify;
 	/* Allows for actually seeing the 'justify' wrapping effect. */
 	max-width: 20cm;
+	font-size: 1.1em;
+	color: #444;
 }
